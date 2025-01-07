@@ -1,11 +1,11 @@
-<img src="https://media.giphy.com/media/lbs3JZRLoirw4/giphy.gif" width="160" height="90" alt="Stockmarket GIF" style="float: right; margin-left: 15px; border-radius: 15px;" />
 
 Hi, Fellas.
 
 - 💼 Currently studying.
 - ⌨️ Programming typa shit.
 
-<p style="text-align: right; margin-top: 10px; font-family: 'Pacifico', cursive;">-Me</p>
+<br>
+<img src="https://media.giphy.com/media/lbs3JZRLoirw4/giphy.gif" width="160" height="90" alt="Stockmarket GIF" style="float: right;"/><p style="text-align: right; font-family: 'Pacifico', cursive;">-Me</p>
 
 ![Codewars](https://www.codewars.com/users/Yolomeus/badges/large)
 
